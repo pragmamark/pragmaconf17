@@ -22,5 +22,5 @@ A collection of slide decks, videos and other material for the Pragma Conference
 * **CHRISTOPHER STOTT** | [@chrisyvr](https://twitter.com/chrisyvr) - Building buddybuild: Slides
 * **PAUL HUDSON** | [@twostraws](https://twitter.com/twostraws) - How to instrument code like you mean it: Slides
 * **TOBIAS DUE MUNK** | [@tobiasdm](https://twitter.com/tobiasdm) - Gems of GameplayKit: [Slides](http://developmunk.dk/files/Gems-of-GameplayKit-Pragma.pdf)
-* **CHRIS EIDHOF** | [@chriseidhof](https://twitter.com/chriseidhof) - Declarative Architecture: Sample Code
+* **CHRIS EIDHOF** | [@chriseidhof](https://twitter.com/chriseidhof) - Declarative Architecture: [Sample Code](https://github.com/chriseidhof/laufpark-stechlin)
 * **DANIEL STEINBERG** | [@dimsumthinking](https://twitter.com/dimsumthinking) - When Will We Use This: Slides
