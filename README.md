@@ -1,5 +1,5 @@
-## Pragmaconf17
-A collection of slide decks, videos and other material for the Pragma Conference 17 talks
+## #PragmaConf17
+A collection of slide decks, videos and other material for the [#Pragma Conference 2017](http://pragmaconference.com/) talks.
 
 ## Talks
 ### Thursday, October 12th
