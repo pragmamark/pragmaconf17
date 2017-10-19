@@ -15,7 +15,7 @@ A collection of slide decks, videos and other material for the [#Pragma Conferen
 * **SOROUSH KHANLOU** | [@khanlou](https://twitter.com/khanlou) - You Deserve Nice Things: Slides
 
 ### Friday, October 13th
-* **ALAN COOKE** | [@a1cooke](https://twitter.com/a1cooke) - Tales of a rebuild: [Slides](https://www.slideshare.net/secret/c2l4g6ZJTlgzgz)
+* **ALAN COOKE** | [@a1cooke](https://twitter.com/a1cooke) - Tales of a rebuild: [Slides](https://www.slideshare.net/cookealan/tales-of-a-rebuild)
 * **GLENNA BUFORD** | [@glennersboofy](https://twitter.com/glennersboofy) - Getting Started with ARKit + Tips and Tricks: [Slides](https://speakerdeck.com/glenna/arkit-tips-plus-tricks) | [Sample Code](https://github.com/glenna/arkit-demo)
 * **BENEDIKT TERHECHTE** | [@terhechte](https://twitter.com/terhechte) - Simplifying State by Partially Introducing Unidirectional Data Flow in Your Codebase: [Slides](https://speakerdeck.com/terhechte/simplifying-state-by-partially-introducing-unidirectional-data-flow-in-your-codebase) | [Sample Code](https://github.com/terhechte/pragma2017-example-code)
 * **BEN SANDOFSKY** | [@sandofsky](https://twitter.com/sandofsky) - A Tour of the Photo Capture Pipeline: Slides
