@@ -20,7 +20,7 @@ A collection of slide decks, videos and other material for the [#Pragma Conferen
 * **BENEDIKT TERHECHTE** | [@terhechte](https://twitter.com/terhechte) - Simplifying State by Partially Introducing Unidirectional Data Flow in Your Codebase: [Slides](https://speakerdeck.com/terhechte/simplifying-state-by-partially-introducing-unidirectional-data-flow-in-your-codebase) | [Sample Code](https://github.com/terhechte/pragma2017-example-code)
 * **BEN SANDOFSKY** | [@sandofsky](https://twitter.com/sandofsky) - A Tour of the Photo Capture Pipeline: Slides
 * **CHRISTOPHER STOTT** | [@chrisyvr](https://twitter.com/chrisyvr) - Building buddybuild: Slides
-* **PAUL HUDSON** | [@twostraws](https://twitter.com/twostraws) - How to instrument code like you mean it: Slides
+* **PAUL HUDSON** | [@twostraws](https://twitter.com/twostraws) - How to instrument code like you mean it: [Slides](https://github.com/pragmamark/pragmaconf17/blob/master/How_to_Instrument_(Slides).pdf)
 * **TOBIAS DUE MUNK** | [@tobiasdm](https://twitter.com/tobiasdm) - Gems of GameplayKit: [Slides](http://developmunk.dk/files/Gems-of-GameplayKit-Pragma.pdf)
 * **CHRIS EIDHOF** | [@chriseidhof](https://twitter.com/chriseidhof) - Declarative Architecture: [Sample Code](https://github.com/chriseidhof/laufpark-stechlin)
 * **DANIEL STEINBERG** | [@dimsumthinking](https://twitter.com/dimsumthinking) - When Will We Use This: Slides
